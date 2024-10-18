@@ -21,6 +21,12 @@ Create an open-source repository and organization for content, rules, open gover
 
 #### How can I contribute? 
 
+Anything helps, our organization would love to open up some of the best practices in organic gardening, so any contributions open-source and freely shareable resources help out in a huge way. 
+Think you have a good way your garden does something like a ladybug release? 
+Do you have a good idea of some best practices with compost? 
+Do you have good pamphlets or printable resources?
+Do you have some Google spreadsheets of URLs to seed banks or food banks?
+
 
 
 
